@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#0000ff" font-family="serif" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(6.43488, 0, 0, 6.60553, -605.968, -319.293)" x="119.5" xml:space="preserve" y="78.5">C</text>
+  <text fill="#7f00ff" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(10.7439, 0, 0, 6.3199, -3018.96, -678.536)" x="304.075481" xml:space="preserve" y="138.33371">J</text>
+  <text fill="#ff00ff" font-family="serif" font-size="24" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(6.85111, 0, 0, 5.67755, -2466.35, -697.737)" x="409.036171" xml:space="preserve" y="154.511186">Q</text>
+  <text fill="#ff007f" font-family="serif" font-size="24" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(6.92798, 0, 0, 6.56792, -2852.36, -832.831)" x="475.731837" xml:space="preserve" y="156.383547">G</text>
+  <line fill="none" fill-opacity="0" id="svg_10" stroke="#ffaaaa" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="13" x1="425.5" x2="532.5" y1="207.5" y2="205.5"/>
+  <line fill="none" fill-opacity="0" id="svg_11" stroke="#56ffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="13" x1="463.5" x2="561.5" y1="237.5" y2="235.5"/>
+  <line fill="none" fill-opacity="0" id="svg_12" stroke="#ffffaa" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="13" x1="521.5" x2="492.5" y1="253.5" y2="188.5"/>
+  <polygon cx="522.5" cy="91.5" fill="none" id="svg_13" orient="point" point="5" points="522.5,57.181232863376664 530.5688260799067,80.3942136641901 555.1390871165016,80.89491772878694 535.5556348466006,95.74203290848523 542.6720651997667,119.26446583952473 522.5,105.22750685464933 502.3279348002332,119.26446583952473 509.44436515339936,95.74203290848523 489.86091288349843,80.89491772878694 514.4311739200933,80.3942136641901 522.5,57.181232863376664 530.5688260799067,80.3942136641901 " r="34.318767" r2="13.727507" shape="star" stroke="#aaffaa" stroke-width="13" strokeWidth="13" strokecolor="#ffffaa"/>
+  <polygon cx="-209.5" cy="183.5" fill="none" id="svg_14" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="13" strokecolor="#aaffaa"/>
+ </g>
+</svg>
